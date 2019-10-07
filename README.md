@@ -1,4 +1,4 @@
-# DLL
+# Doubly-Linked List functions
 Desc: Personal implementations of common functions for doubly-linked list usability.
 
 Sort():
